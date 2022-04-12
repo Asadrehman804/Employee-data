@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Asad",
+      "username": "Mughal",
+      "email": "asad@gmail.com",
+      "phone": "03456345657",
+      "id": 1
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "034567892",
+      "id": 2
+    },
+    {
+      "name": "Weissnat",
+      "username": "Elwyn",
+      "email": "Elwyn.THoeger@billy.biz",
+      "phone": "03426789321",
+      "id": 3
+    },
+    {
+      "name": "Asif",
+      "username": "khan",
+      "email": "asifkhan23@gmail.com",
+      "phone": "03456789021",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132"
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "03114567890",
+      "id": 7
+    },
+    {
+      "name": "Adnan",
+      "username": "Moqsood",
+      "email": "adnanmoqsood@gmail.com",
+      "phone": "03476845342",
+      "id": 8
+    },
+    {
+      "name": "asad",
+      "username": "rehman",
+      "email": "asadrehman345@gmail.com",
+      "phone": "03216789022",
+      "id": 9
+    }
+  ]
+}
